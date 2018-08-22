@@ -1,0 +1,18 @@
+﻿<Application x:Class="Zadatak31.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Zadatak31"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <LinearGradientBrush x:Key="glavniBtn">
+            <GradientStop Offset="0" Color="DarkBlue"/>
+            <GradientStop Offset="1" Color="Black"/>
+        </LinearGradientBrush>
+
+        <RadialGradientBrush x:Key="kvadrati" GradientOrigin="0 0">
+            <GradientStop Offset="0" Color="Red"/>
+            <GradientStop Offset="1" Color="DarkRed"/>
+        </RadialGradientBrush>
+        
+    </Application.Resources>
+</Application>

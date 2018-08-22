@@ -1,0 +1,14 @@
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\bin\Debug\Zadatak32.exe.config
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\bin\Debug\Zadatak32.exe
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\bin\Debug\Zadatak32.pdb
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\obj\Debug\Zadatak32.csprojResolveAssemblyReference.cache
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\obj\Debug\MainWindow.g.cs
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\obj\Debug\App.g.cs
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\obj\Debug\Zadatak32_MarkupCompile.cache
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\obj\Debug\Zadatak32_MarkupCompile.lref
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\obj\Debug\MainWindow.baml
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\obj\Debug\Zadatak32.g.resources
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\obj\Debug\Zadatak32.Properties.Resources.resources
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\obj\Debug\Zadatak32.csproj.GenerateResource.Cache
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\obj\Debug\Zadatak32.exe
+C:\Users\programer10.UCIONE\Desktop\Wpf-Ispit\Zadatak32\obj\Debug\Zadatak32.pdb
